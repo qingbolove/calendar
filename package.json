@@ -1,6 +1,6 @@
 {
-  "name": "hestia-calendar",
-  "version": "1.0.0",
+  "name": "rc-calendar",
+  "version": "9.6.0",
   "description": "React Calendar",
   "keywords": [
     "react",
